@@ -1,5 +1,10 @@
-## 👋 Hi, I'm Adhiti, a BCA Student.
+## 👋 Hi, I'm Adhiti.
 
+**💬 I am a BCA student aspiring to start my career in the IT industry. I am currently learning the basics of computer applications and working to improve my technical knowledge step by step.
+
+**🎨I also have a strong passion for art, which has helped me develop creativity, patience, and a unique perspective on design and problem-solving. I believe the combination of technology and creativity allows me to think differently and deliver better solutions.
+
+**🌱 I am currently seeking internships or entry-level opportunities where I can learn, grow, and contribute my skills.
 <!--
 **Adhiti800/Adhiti800** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
